@@ -1,4 +1,10 @@
 # Smart-beehive-prototype
+##  Project Demo Video
+Watch the demo here: [Google Drive Video Link](https://drive.google.com/file/d/1fiiZjkyL7J7GnUEnK0Vpof61AzQB9jeN/view?usp=sharing)
+
+##  Front-End Design
+View the front-end design on Canva: [Canva Front-End Link](https://www.canva.com/design/DAG1AuAIdBI/HZzYklmMAoe1Nqn1pL1tSA/edit?utm_content=DAG1AuAIdBI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
 
 # AsaliAsPossible: Intelligent Beehive Monitoring and Management System
 
